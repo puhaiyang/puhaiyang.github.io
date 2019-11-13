@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="https://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>puhaiyang`s blog</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://puhaiyang.github.io/"/>
   <updated>2019-11-13T02:22:46.419Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://puhaiyang.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>puhaiyang</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>那些年无聊时折腾的软件</title>
-    <link href="http://yoursite.com/2019/11/12/hello-world/"/>
-    <id>http://yoursite.com/2019/11/12/hello-world/</id>
+    <link href="https://puhaiyang.github.io/2019/11/12/hello-world/"/>
+    <id>https://puhaiyang.github.io/2019/11/12/hello-world/</id>
     <published>2019-11-12T06:06:48.174Z</published>
     <updated>2019-11-13T02:22:46.419Z</updated>
     
